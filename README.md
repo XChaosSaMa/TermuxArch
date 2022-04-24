@@ -1,6 +1,6 @@
 # TermuxArch
 
-This is a personal script to install Arch on Termux with the AUR and Blackarch repositories. I will improve the script over time.
+This is a personal script to install Arch on Termux with the AUR and Blackarch repositories. It will also install Xfce4 to have a functional desktop that you can use with VNCViewer. I will improve the script over time.
 
 Instructions:
 1. Give disk read permissions to termux
