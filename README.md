@@ -11,3 +11,5 @@ Instructions:
 > chmod +x TermuxArch.sh
 4. Run it 
 > ./TermuxArch.sh
+5. In VNCViewer
+> Adress: localhost:1
